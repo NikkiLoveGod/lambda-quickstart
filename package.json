@@ -1,11 +1,11 @@
 {
   "name": "lambda-init",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quickly setup dev env for an aws lambda, which you can deploy with a simple command.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "./scripts/deploy.sh"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
