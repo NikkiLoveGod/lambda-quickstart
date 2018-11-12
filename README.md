@@ -34,4 +34,4 @@ get_session_token_duration_seconds = <token-duration-for-mfa>
 * Automatically create lambda
 * Run AWS lambda from cli
 * Get lambda logs from cli
-* Verify if this whole thing as any merit because of Serverless.io and Cloud9 😛
+* Verify if this whole thing as any merit because of Serverless.com and AWS Cloud9 😛
