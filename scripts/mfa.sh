@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Parameter 1 is the name of the profile that is populated
-# with keys and tokens.
+# Modified from https://aws.amazon.com/blogs/devops/secure-aws-codecommit-with-multi-factor-authentication/
+
 KEY_PROFILE=${MFA_PROFILE:-$1}
 IAM_USER_WITH_MFA=${AWS_PROFILE:-$2}
 FORCE_RELOAD=${FORCE_RELOAD:-$3}
