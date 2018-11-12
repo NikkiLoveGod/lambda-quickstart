@@ -1,4 +1,4 @@
-# Lambda init
+# Lambda Quickstart
 
 Quickly create a local dev setup for Node lambda with package.json. 
 Supports MFA requirement for AWS accounts.
