@@ -1,5 +1,5 @@
 {
-  "name": "lambda-init",
+  "name": "lambda-quickstart",
   "version": "1.0.0",
   "description": "Quickly setup dev env for an aws lambda, which you can deploy with a simple command.",
   "main": "index.js",
