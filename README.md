@@ -28,3 +28,10 @@ get_session_token_duration_seconds = <token-duration-for-mfa>
 * Add your edits into index.js etc
 * Run `npm run deploy`
 * Go run your lambda
+
+
+## TODO
+* Automatically create lambda
+* Run AWS lambda from cli
+* Get lambda logs from cli
+* Verify if this whole thing as any merit because of Serverless.io and Cloud9 😛
